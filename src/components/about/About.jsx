@@ -73,7 +73,7 @@ const About = () => {
           <div className="itemContainer">
             <img src={resumeImage} alt="" className="imgContainer imgright" />
             <a
-              href="https://drive.google.com/file/d/1Ab7cp7uwBtGzcP5OXpo_V-Wcm5XW2p6m/view?usp=drive_link"
+              href="https://drive.google.com/file/d/1qdcbZQlUfZhIX6l7rzHH6LRcZdAmLSMF/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
             >
