@@ -12,6 +12,7 @@ import spotify from "./img/spotify.png";
 import cryptox from "./img/cryptox.png";
 import tesla from "./img/tesla.png";
 import threads from "./img/threads.png";
+import restaurant from "./img/restaurant.png";
 
 export const products = [
   {
@@ -73,8 +74,8 @@ export const products = [
     },
     {
       id: 11,
-      img: sstore,
-      link: "https://s-store.netlify.app",
+      img: restaurant,
+      link: "https://rest-gericcht.netlify.app/",
     },
     {
       id: 12,
