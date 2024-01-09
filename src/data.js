@@ -23,7 +23,7 @@ export const products = [
     {
       id: 2,
       img: homepage,
-      link: "https://github.com/ShauryaThakur01/Frontend_E-Commerce_Shop.git",
+      link: "https://github.com/ShauryaThakur01/Social_Media_MERN_Stack_Project-Frontend-.git",
     },
     {
       id: 3,
