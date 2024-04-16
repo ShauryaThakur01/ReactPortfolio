@@ -73,7 +73,7 @@ const About = () => {
           <div className="itemContainer">
             <img src={resumeImage} alt="" className="imgContainer imgright" />
             <a
-              href="https://drive.google.com/file/d/1Dm1-A8l0Nlx6dSIh26TyLc9B25hJNb9G/view?usp=drive_link"
+              href="https://drive.google.com/file/d/1CtGgdo9j3925A5P0GinQHkFSBMYXjL-D/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -87,7 +87,7 @@ const About = () => {
               target="_blank"
               rel="noopener noreferrer"
             >
-              <button className="buttonContainer">Deployed Projects</button>
+              <button className="buttonContainer"></button>
             </a>
           </div>
         </div>
